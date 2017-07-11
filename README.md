@@ -90,6 +90,7 @@ Do you still think OO is a way of coding, or is it just another tool in your too
 If you've enjoyed this article/project, please consider giving it a 🌟. Also check out my [GitHub account](https://github.com/davidgatti), where I have other articles and apps that you might find interesting.
 
 [![Star on GitHub][github-star-badge]][github-star]
+
 [github-star-badge]: https://img.shields.io/github/stars/davidgatti/Objects-are-tools-not-a-way-of-coding.svg?style=social
 [github-star]: https://github.com/davidgatti/Objects-are-tools-not-a-way-of-coding/stargazers
 
