@@ -87,12 +87,13 @@ Do you still think OO is a way of coding, or is it just another tool in your too
 
 # The End
 
-If you've enjoyed this article/project, please consider giving it a 🌟. Also check out my [GitHub account](https://github.com/davidgatti), where I have other articles and apps that you might find interesting.
+If you've enjoyed this article/project, please consider giving it a 🌟 or donate.
 
-[![Star on GitHub][github-star-badge]][github-star]
+- [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/gattidavid/25)
+- [![Star on GitHub](https://img.shields.io/github/stars/davidgatti/Objects-are-tools-not-a-way-of-coding.svg?style=social)](https://github.com/davidgatti/How-to-Stream-Movies-using-NodeJS/stargazers)
+- [![Watch on GitHub](https://img.shields.io/github/watchers/davidgatti/Objects-are-tools-not-a-way-of-coding.svg?style=social)](https://github.com/davidgatti/How-to-Stream-Movies-using-NodeJS/watchers)
 
-[github-star-badge]: https://img.shields.io/github/stars/davidgatti/Objects-are-tools-not-a-way-of-coding.svg?style=social
-[github-star]: https://github.com/davidgatti/Objects-are-tools-not-a-way-of-coding/stargazers
+Also check out my [GitHub account](https://github.com/davidgatti), where I have other articles and apps that you might find interesting.
 
 ## Where to follow
 
