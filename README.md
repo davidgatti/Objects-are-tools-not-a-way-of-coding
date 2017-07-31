@@ -70,12 +70,12 @@ Ask an API endpoint to give back the number of doors it controls, and the API us
 
 If you have to open a door remotely with the API, another function would fire on that Device Object, and that request would then... 
 
-...be translated inside the object in the special protocol
-...send the request to the device
-...wait for the response
-...parse the response
-...translate the response form that custom protocol in to JSON
-...and send it back to whoever made the API request.
+- ...be translated inside the object in the special protocol
+- ...send the request to the device
+- ...wait for the response
+- ...parse the response
+- ...translate the response form that custom protocol in to JSON
+- ...and send it back to whoever made the API request.
 
 I believe this was one of those situations in which I was happy that JavaScript had Classes, because I was able to make a nice server that just works beautifully, and I’m proud of it. 
 
